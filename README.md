@@ -17,4 +17,4 @@ Three machine learning models have been used for the classification task namely:
 2. Decision Tree Classifier
 3. Random Forest Classifier
 
-Out of all 3, the random forest classifier was found to generate the best scores on both train and test data.
+Out of all 3, the Random forest classifier and Multinomial Naive Bayes models were found to generate the best scores on both train and test data.
